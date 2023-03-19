@@ -1,0 +1,5 @@
+tmp/
+*_old
+*_backup
+Trumbbs.dl
+.DS_Store
